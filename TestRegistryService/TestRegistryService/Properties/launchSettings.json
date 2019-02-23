@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "TestRegistryService": {
-      "commandName": "Project",
-      "commandLineArgs": "-console"
-    }
-  }
-}
